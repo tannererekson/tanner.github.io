@@ -1,12 +1,13 @@
-# tanner.github.io
+#Taner Erekson's Web Page
 
-Styling 
-1. I completed number 13, favicon icon. I add a picture of a the letter T for the icon. (10 points)
+The Styling Used: 
 
-2. I completed style number 11, Style your weekly Schedule. I chose letters a and b. I text aligned my table to the top left of each cell. I also color coded each assinged block.(5 points)
+1. Number 13: I added a favicon icon. The picture that is features is just the letter T because of my name. (10 points)
 
-3. I completed number 8, sticky footer. It is located at the bootom left of my page. (5points)
+2. Number 11: I also styled my weekly Schedule. I chose to  text aligne my table to the top left of each cell. This makes it so you can see each task at the hour it begins. I also color coded each assinged task.(5 points)
 
-4. I completed number 4, Nav Menu. I created a nav menu with 4 buttons that will take ou to 4 different locations on my web page. (5 points)
+3. Number 8: I created a sticky footer. It is located at the bootom left of my page. (5points)
 
-5. I completed number 7, Sticky Nav Menu. I created a div element and put it on the top right of the screen with a fixed position. It has four different sections where you can navigate to. (5 points)
+4. Number 4: A Nav Menu is also found in the top center of my page I created a nav menu with 4 buttons that will take you to 4 different sections on my web page.
+
+5. Number 7: I also made my Nav Menu Sticky. I created a div element and put it on the top middle of the screen with a fixed position. It has four different sections where you can navigate to. As you navigate to different parts of the page, the nav menu will stay in the top center.

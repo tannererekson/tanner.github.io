@@ -1,5 +1,73 @@
-.table{
-    border: 1;
-    border-spacing: 3;
+html * {
+    font: Arial;
+}
 
+footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+#schedule *{
+    border: 1px solid black;
+    border-spacing: 3px;
+    padding: 3px;
+    border-spacing: 3px;
+    vertical-align: top;
+    
+
+}
+
+.topnav{
+    background-color: lightseagreen;
+    width: 205px;
+    position: fixed;
+    left: 500px;
+    
+
+}
+
+#schedule {
+    border: 1px solid black;
+    border-spacing: 3px;
+    padding: 3px;
+    vertical-align: top;
+
+
+}
+
+h2{
+    font: cursive;
+}
+
+#haiku{
+    margin: 20px;
+}
+
+#work{
+    background-color: lightblue;
+}
+
+#dinner{
+    background-color: lightgreen;
+}
+
+#cs24{
+    background-color:yellow;
+}
+
+#cs25{
+   background-color: lightcoral ;
+}
+
+#cs32{
+    background-color: lightslategray;
+}
+
+#cs26{
+    background-color: green;
+}
+
+#golf{
+    background-color: lime;
 }
